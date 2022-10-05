@@ -1332,3 +1332,7 @@ def Subscraption():
 		os.system('am start https://wa.me/+8801979526394?text=' + tks)
 		Subscraption()        
 Main()
+
+
+
+
