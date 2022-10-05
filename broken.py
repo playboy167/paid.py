@@ -425,7 +425,7 @@ class Main:
 		print(" [5] 2011-14 Cloning")
 		print(" [E] Exit Programming\n")
 		PLAY =input(" Choose : ")
-		if AYAN in ["1", "01"]:
+		if PLAY in ["1", "01"]:
 			os.system('xdg-open https://facebook.com/groups/1215404685982268/')
 			File()
 		if PLAY in ["2", "02"]:
